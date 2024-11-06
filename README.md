@@ -23,6 +23,8 @@ Heres a Gif of its Functions:
 The First one includes how I created a Crewmate and how it's saved onto the database
 
 The Second one shows how its on the database then its able to be Edited and how another is deleted from the database
+
+Both show how each Crewmate created in the database is a unique link that uses the ID
 ![Page](https://github.com/abledaniel/Web102Project7/blob/master/src/assets/creategif.gif)
 ![Page](https://github.com/abledaniel/Web102Project7/blob/master/src/assets/editgif.gif)
 
