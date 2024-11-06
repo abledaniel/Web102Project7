@@ -18,12 +18,16 @@ Currently, the Website looks like this:
 ![Page](https://github.com/abledaniel/Web102Project7/blob/master/src/assets/website.png)
 
 
-Heres a Gif of its Functions:                                                                                               
-![Page](https://github.com/abledaniel/Web102Project6/blob/master/src/assets/creategif.gif)
-![Page](https://github.com/abledaniel/Web102Project6/blob/master/src/assets/editgif.gif)
+Heres a Gif of its Functions:
+
+The First one includes how I created a Crewmate and how it's saved onto the database
+
+The Second one shows how its on the database then its able to be Edited and how another is deleted from the database
+![Page](https://github.com/abledaniel/Web102Project7/blob/master/src/assets/creategif.gif)
+![Page](https://github.com/abledaniel/Web102Project7/blob/master/src/assets/editgif.gif)
 
 The Website is also Responsive for both Mobile and Browsers
-![Page](https://github.com/abledaniel/Web102Project6/blob/master/src/assets/responsivegif.gif)
+![Page](https://github.com/abledaniel/Web102Project7/blob/master/src/assets/responsivegif.gif)
 
 
 Have a Nice Day YIPPEE!!!!
